@@ -25,7 +25,7 @@ C exmaple:
 ![image](https://user-images.githubusercontent.com/61387800/148657719-c031e920-3326-4f53-8a30-dd0388dbaf86.png)
 
 
-#How to compile?
+# How to compile?
 First build module extension:
 **python setup.py build_ext --inplace**
 
